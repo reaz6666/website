@@ -1,0 +1,58 @@
+.Pops{
+    display: flex;
+
+    
+    
+}
+
+.Da{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+p{
+    display: inline;
+    gap: 30px;
+}
+
+/*  */
+
+.Site{
+   background-image: url(pexels-david-bartus-43782-594226.jpg);
+   height: 500px;
+   width: auto;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: aliceblue;
+   
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(224, 14, 14);
+    color: azure;
+    font-weight: 600;
+}
+
+
+.Chi{ margin-left: 15%;
+ 
+
+}
+
+button:hover{
+    background-color: darkmagenta;
+}
+
+/*  */
+
+.fath{
+    display: flex;
+}
